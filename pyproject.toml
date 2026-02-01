@@ -1,0 +1,12 @@
+[project]
+name = "solve-fopdt"
+version = "0.1.0"
+description = "Solve FOPDT for fun~"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.3",
+    "jupyterlab-vim>=4.1.4",
+]
